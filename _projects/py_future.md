@@ -6,9 +6,7 @@ link: https://github.com/chilaxan/py_future
 preview: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
 ---
 
-I wrote this python module to experiment with how CPython handles internal types.
-It allows for the live replacement of internal methods with python ones.
-Several examples are included, including ``jsdict`` and ``iterint``.
+I wrote this python module to experiment with how CPython handles internal types. It allows for the live replacement of internal methods with python ones. It should never be used in any production environment, as segmentation faults are common. Several examples are included, including ``jsdict`` and ``iterint``.
 
 ### JavaScript dictionaries
 Makes python dictionary values settable via attributes

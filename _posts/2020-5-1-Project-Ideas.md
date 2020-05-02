@@ -26,7 +26,7 @@ author: Jordan
 {% capture py %}
 - Refactor API
     - More logical code layout
-    - Remove pirating lib (backup)
+    - Remove unused media code (make backup)
     - Add more functionality using Google APIs
 {% endcapture %}
 {% include details.md label="Python3" content=py %}

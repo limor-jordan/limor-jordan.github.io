@@ -1,0 +1,32 @@
+I"O<h1 id="languages">Languages</h1>
+<details>
+  <summary>
+    Swift
+  </summary>
+  <ul>
+    <li>Webcam App
+      <ul>
+        <li>video (and audio?) forwarding</li>
+        <li>wired?</li>
+        <li>usb tcp server</li>
+        <li>local wireless tcp server</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    Java
+  </summary>
+  <ul>
+    <li>Webcam Client
+      <ul>
+        <li>On Computer</li>
+        <li>Connects to tcp server (wired or wireless)</li>
+        <li>Pretends to be a webcam and forwards video (and audio?)</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+:ET

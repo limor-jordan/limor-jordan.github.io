@@ -1,0 +1,40 @@
+I"Ú<h1 id="languages">Languages</h1>
+<ul>
+  <li>Swift</li>
+  <li>Python3</li>
+  <li>Java</li>
+</ul>
+
+<details>
+  <summary>
+    # Swift
+  </summary>
+- Webcam App
+  - video (and audio?) forwarding
+  - wired?
+  - usb tcp server
+  - local wireless tcp server
+</details>
+
+<h1 id="java">Java</h1>
+<ul>
+  <li>Webcam Client
+    <ul>
+      <li>On Computer</li>
+      <li>Connects to tcp server (wired or wireless)</li>
+      <li>Pretends to be a webcam and forwards video (and audio?)</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="python3">Python3</h1>
+<ul>
+  <li>Refactor API
+    <ul>
+      <li>More logical code layout</li>
+      <li>Remove pirating lib (backup)</li>
+      <li>Add more functionality using Google APIs</li>
+    </ul>
+  </li>
+</ul>
+:ET

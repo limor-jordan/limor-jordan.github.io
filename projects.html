@@ -1,0 +1,16 @@
+---
+layout: default
+title: Projects
+icon: fa-th
+order: 3
+---
+{%- assign projects = site.projects -%}
+{%- include header.html scrolly_nav=projects -%}
+<!-- Main -->
+<div id="main">
+	<!-- Sections -->
+	{%- for project in projects -%}
+		{% assign title = project.title | append: " - " | append: project.lang %}
+		{%- include section.html title=title content=project.content link=project.link -%}
+	{%- endfor -%}
+</div>

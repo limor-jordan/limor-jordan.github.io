@@ -1,0 +1,10 @@
+I"Ñ<header>
+  <h2 id="hi-im-jordan-limor-a-software-developer-from-georgia">Hi! Iâ€™m <strong>Jordan Limor</strong>, a software developer from Georgia</h2>
+  <h2 id="welcome-to-my-online-portfolio">Welcome to my online portfolio</h2>
+  <p>Here you will find descriptions of many of my projects also hosted on my <a href="https://github.com/limor-jordan">Github</a></p>
+</header>
+
+<footer>
+  <a href="#about-me" class="button scrolly icon fa-arrow-down"></a>
+</footer>
+:ET

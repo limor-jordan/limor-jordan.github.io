@@ -1,0 +1,37 @@
+I"­<h1 id="languages">Languages</h1>
+<details>
+  <summary>
+    Swift
+  </summary>
+  <ul>
+    <li>Webcam App
+      <ul>
+        <li>video (and audio?) forwarding</li>
+        <li>wired?</li>
+        <li>usb tcp server</li>
+        <li>local wireless tcp server</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    Java
+  </summary>
+- Webcam Client
+  - On Computer
+  - Connects to tcp server (wired or wireless)
+  - Pretends to be a webcam and forwards video (and audio?)
+</details>
+
+<details>
+    <summary>
+      Python3
+    </summary>
+- Refactor API
+  - More logical code layout
+  - Remove pirating lib (backup)
+  - Add more functionality using Google APIs
+</details>
+:ET

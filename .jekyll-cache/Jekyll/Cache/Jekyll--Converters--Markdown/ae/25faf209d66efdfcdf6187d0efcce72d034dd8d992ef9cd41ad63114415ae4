@@ -1,0 +1,42 @@
+I"<h1 id="languages">Languages</h1>
+<details>
+  <summary>
+    Swift
+  </summary>
+  <ul>
+    <li>Webcam App
+      <ul>
+        <li>video (and audio?) forwarding</li>
+        <li>wired?</li>
+        <li>usb tcp server</li>
+        <li>local wireless tcp server</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    Java
+  </summary>
+  <ul>
+    <li>Webcam Client
+      <ul>
+        <li>On Computer</li>
+        <li>Connects to tcp server (wired or wireless)</li>
+        <li>Pretends to be a webcam and forwards video (and audio?)</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>&lt;summary&gt;
+  Python 3
+&lt;/summary&gt; - Refactor API   - More logical code layout   - Remove pirating lib (backup)   - Add more functionality using Google APIs
+</pre></td></tr></tbody></table></code></pre></div>  </div>
+</details>
+:ET

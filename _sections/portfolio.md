@@ -14,7 +14,7 @@ I have completed projects in a variety of different languages, including Python3
   <div class="4u 12u$(mobile)">
     <div class="item">
       <a href="projects.html#{{ project.title | slugify }}" class="image fit"><img src="{{ project.preview | relative_url }}" alt="{{ project.title }}" /></a>
-      <a href="projects/#{{ project.title | slugify }}">
+      <a href="projects.html#{{ project.title | slugify }}">
         <header>
           <h3>{{ project.title }}</h3>
         </header>

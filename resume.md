@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Resume
-icon: fa-doc
+icon: fa-file-text
 order: 4
 ---
 ### Resume
